@@ -3,6 +3,7 @@ import "./Footer.css";
 
 function Footer(){
     return <div>
+     <div >
         <h1 className="heading" >World's largest collection of Creative Indian images & videos</h1>
        
         <div className="floatleft">
@@ -31,6 +32,7 @@ function Footer(){
              <li><button>Testimonials</button></li>
              <li><button>Image Research</button></li>
              </ul>
+          </div>
           </div> 
 }
 export default Footer;

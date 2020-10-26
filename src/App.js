@@ -6,8 +6,8 @@ import Whyimagesbazaar from "./components/why_imagesbazaar";
 function App() {
   return (
     <div>
-    <Footer />
     <Whyimagesbazaar />
+    <Footer />
     </div>
   );
 }
