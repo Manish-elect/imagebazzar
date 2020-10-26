@@ -1,5 +1,5 @@
 import React from "react";
-import "./why_imagesbazaar.css";
+import "./why-imagesbazaar.css";
 
 function Whyimagesbazaar(){
 return <div>
