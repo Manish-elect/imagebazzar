@@ -1,7 +1,7 @@
 import React from "react";
 import RecatDom from "react-dom";
-import Footer from "./components/Footer";
-import Whyimagesbazaar from "./components/why-imagesbazaar";
+import Footer from "./components/Footer/Footer.jsx"
+import Whyimagesbazaar from "./components/why_imagesbazaar/why-imagesbazaar";
 
 function App() {
   return (

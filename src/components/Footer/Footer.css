@@ -1,0 +1,28 @@
+.body{
+    background-color: black;
+    height: 270px;
+    color:white;
+}
+.heading{
+    text-align: center;
+    padding-top: 15px;
+}
+.floatleft{
+    float:left;
+}
+.floatleft h4{
+    margin-top: 90px;
+}
+.info{
+    float: right;
+}
+.info li a{
+text-decoration: none;
+color: white;
+}
+.info li{
+    list-style-type: none;
+}
+.margin-from-heading{
+margin-top: 10px;
+}
