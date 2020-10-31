@@ -2,7 +2,7 @@ import React from "react";
 import "./why-imagesbazaar.css";
 
 function Whyimagesbazaar(){
-return <div>
+return <div className="whyimagesbazaar">
     <h1 className="header" >Why ImagesBazaar?</h1>
     <div className="discripition">
    India's diversity and complexity can be witnessed through its people, traditions and values associated with distinctive regional customs,
