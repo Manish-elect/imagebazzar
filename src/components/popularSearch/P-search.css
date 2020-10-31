@@ -1,0 +1,64 @@
+*{
+    color:black;
+}
+.di{
+    
+    box-sizing:border-box;
+    background-color:rgb(238, 238, 238);
+    width:100%;
+    height:300px;
+    padding-left:0px 10px 0px 10px;
+    text-align:center;
+    position: relative;
+    
+    
+}
+
+.divForItem{
+    position:relative;
+    background-color:rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    min-width:70px;
+    float:left;
+    box-sizing: border-box;
+    border:1px solid rgb(0, 0, 0);
+    border-radius:35px;
+    padding-left:15px;
+    padding-right:15px;
+    align-items:center;
+    height:40px;
+    margin:-10px 0px 30px 17px;
+    
+
+}
+
+a{
+    text-decoration:none;
+}
+
+p{
+  
+    font-size:30px;
+    padding-top:20px;
+    padding-bottom:-50px;
+}
+
+@media only screen and (max-width: 650px){
+    .di{
+        padding:0px 20px 0px 20px;
+        height:600px;
+        position:relative;
+    }
+
+    .divForItem{
+        margin:8px;
+        position:relative;
+    }
+}
+
+@media only screen and (min-width: 650px) and (max-width:900px){
+  .di{
+      height:450px;
+  }
+}

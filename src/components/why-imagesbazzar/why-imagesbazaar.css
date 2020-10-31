@@ -1,0 +1,20 @@
+.div{
+    background-color:white;
+    margin-top:-22px;
+    padding:10px;
+    padding-top:30px;
+}
+.header{
+    text-align: center;
+    
+}
+.discripition{
+    font-size: 17px;
+    text-align: center;
+    margin-top: 25px;
+    line-height:30px;
+    
+}
+.button{
+    color: rgba(86, 86, 206, 0.966);
+}

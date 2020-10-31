@@ -1,0 +1,78 @@
+
+.navbarDiv{
+    z-index:1;
+    overflow:auto;
+    overflow-x:hidden;
+    direction :ltr;
+    width:298px;
+    margin-left:0px;
+    padding:0px;
+    position: fixed;
+    margin-top:-40px;
+    height:610px; 
+      
+}
+.ForItems{
+    background-color:white;
+    height:45px;
+    width:282px;
+    border-bottom:0.1px solid rgb(233, 232, 232);
+    list-style: none;
+    box-sizing: border-box;
+    padding-left: 0px;
+    padding-top:10px;
+    font-family: 'Commissioner', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+
+}    
+.menuWord{
+    text-decoration: none;
+    margin:20px;
+    color:rgb(0, 0, 0);
+    font-size: 14px;
+}
+
+.ForItems:hover{
+    background-color:rgb(236, 235, 235);
+}
+
+.threeBar{
+    z-index:2;
+    color:rgb(245, 245, 245);
+   position:absolute;
+    margin-left:0px;
+    font-size:25px;
+    background-color:rgb(27, 27, 27);
+    width:30px;
+    top:15px;
+    
+    box-sizing: border-box;
+    padding:5px;
+}
+
+
+.navbar-Transition{
+   margin-left:-100%;
+   transition: width 5s;
+   transition-duration:2s;
+   transition-property: width;
+}
+
+.position-of-cross{
+    position:fixed;
+    margin-left:0px;
+    font-size:35px;
+    padding:10px 4px 0px 4px;
+    margin-top:-20px;
+    width:282px;
+    direction:rtl;
+    height:50px;
+
+}
+
+
+

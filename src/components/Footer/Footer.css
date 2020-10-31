@@ -1,0 +1,29 @@
+h3{
+    color:white;
+}
+.heading{
+    text-align: center;
+    padding-top: 15px;
+    color:white;
+}
+.floatleft{
+    float:left;
+}
+.floatleft h4{
+    margin-top: 90px;
+    color:white;
+}
+.info{
+    float: right;
+}
+.info li a{
+text-decoration: none;
+color: white;
+}
+.info li{
+    list-style-type: none;
+}
+.margin-from-heading{
+margin-top: 10px;
+}
+
